@@ -1,0 +1,10 @@
+.Review-btn{
+    width: 160px;
+    height: 33px;
+    border: 1px solid #ebc805;
+    background-color: goldenrod;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+
+}
